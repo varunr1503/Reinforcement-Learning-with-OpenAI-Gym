@@ -6,7 +6,7 @@ This repository contains solutions to two popular OpenAI Gym environments: **Tax
 
 The **Taxi-v3** environment is a classic discrete-action space problem where the agent needs to pick up and drop off passengers while optimizing rewards. I implemented the solution using **Q-learning**.
 
-![Taxi-v3 Solution](gifs/"Taxiv3-Final.gif")
+![Taxi-v3 Solution](gifs/Taxiv3-Final.gif)
 
 ### Key Features:
 - Solved using Q-learning algorithm.
