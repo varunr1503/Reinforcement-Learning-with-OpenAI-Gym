@@ -18,9 +18,13 @@ The **Taxi-v3** environment is a classic discrete-action space problem where the
 ## 2. CartPole-v1 Problem
 
 The **CartPole-v1** environment is a continuous state-action space problem where the agent must balance a pole on a cart. I solved this problem using the **Proximal Policy Optimization (PPO)** algorithm.
+
 ###Random Actions:
+
 ![CartPole-v1 Solution](gifs/Cartpole-Random.gif)
+
 ###PPO:
+
 ![CartPole-v1 Solution](gifs/Cartpole-PPO.gif)
 
 ### Key Features:
