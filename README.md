@@ -6,7 +6,7 @@ This repository contains solutions to two popular OpenAI Gym environments: **Tax
 
 The **Taxi-v3** environment is a classic discrete-action space problem where the agent needs to pick up and drop off passengers while optimizing rewards. I implemented the solution using **Q-learning**.
 
-![Taxi-v3 Solution](gifs/Taxiv3 - Final.gif)
+![Taxi-v3 Solution](gifs/Taxiv3-Final.gif)
 
 ### Key Features:
 - Solved using Q-learning algorithm.
@@ -18,9 +18,9 @@ The **Taxi-v3** environment is a classic discrete-action space problem where the
 ## 2. CartPole-v1 Problem
 
 The **CartPole-v1** environment is a continuous state-action space problem where the agent must balance a pole on a cart. I solved this problem using the **Proximal Policy Optimization (PPO)** algorithm.
-Random Actions:
+#Random Actions:
 ![CartPole-v1 Solution](gifs/Cartpole-Random.gif)
-PPO:
+#PPO:
 ![CartPole-v1 Solution](gifs/Cartpole-PPO.gif)
 
 ### Key Features:
