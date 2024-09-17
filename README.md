@@ -33,10 +33,3 @@ The **CartPole-v1** environment is a continuous state-action space problem where
 - The agent learns to balance the pole for as long as possible.
 
 ---
-
-## How to Run
-
-To reproduce the solutions:
-1. Install the dependencies:
-   ```bash
-   pip install stable-baselines3 gymnasium numpy moviepy
